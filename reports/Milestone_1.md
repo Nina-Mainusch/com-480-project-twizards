@@ -2,7 +2,7 @@
 
 **10% of the final grade**
 
-In this project, we 
+We, as passinate chess (and video game) players, follow the chess (and video game) scene on twitch.tv and recognised a recent surge in interest there. We asked ourselves, how the corona pandemic plays into this and finally decided to put on our detective hat to find out within the scope of our Data Visualization project.
 
 ### Dataset
 [Twitch.tv](https://www.twitch.tv/), a subsidiary of *Amazon.com Inc*, is a streaming service that is concentrated on video game live streaming, 
@@ -27,8 +27,25 @@ Note that this dataset is available over all channels and in respect to all stre
 
 ### Problematic
 
+As a website that serves millions of users on a daily basis and is able to collect some kind of information about these users (i.e. number of viewers per channel), it presents a rich environment for all kind of analyses. We want to focus on how the Corona Pandemic influences the interests of the Twitch.tv users. In this setting, we aim at answering the following questions:
+
+1. The Corona pandemic changed our lives in a multitude of ways, one of them being that many individuals work from home. As a result, we ask whether the amount of time that individuals spent on recreational activities on the web, such as watching gaming live-streams, increased. And if it did, did it increase within the progression of the pandemic?
+
+2. We are interested in whether the life-altering changes that came with the current pandemic have an influence on our interests. Specifically, we want to investigate whether certain categories have become unexpectedly more popular under the pandemic. One category that we are very intrigued in is the *Chess* category. Twitch.tv has noticed a huge surge of interest in this category over the year 2020. Although many argue that this due to release of the popular Tv-series [Queen's Gambit](https://gamerant.com/twitch-chess-category-spike-popularity/), we test whether the main reason may lie within the Corona pandemic.
+    
+3. Assuming that the results of question 1. yielded a correlation between the pandemic and increased traffic on Twitch tv, we would be interested in analyzing the phenomenon in more detail. Specifically, we want to investigate whether it is possible to detect months of strict lockdown just by the number of viewers. Assuming that the bulk of the viewers that watch German streams are made up of German citizens, we will inspect the viewer numbers of German speaking streams only and try to put them into relation to lockdown periods in Germany. 
+
 ### Exploratory Data Analysis
+
+TODO
 
 ### Related Work
 
-#### References  
+Although Twitch.tv already has become the focus of scientific research e.g. [here](https://ieeexplore.ieee.org/abstract/document/7377227}), to the best of our knowledge, analysis on this type of data has yet to be conducted. On the other hand, the consequences of the corona pandemic on behaviour related to consumption of video games and streaming services (such as *Youtube* or *Netflix*) have been addressed. Generally, one observed an increase in the use of such mediums e.g. [here](https://en.wikipedia.org/wiki/Impact_of_the_COVID-19_pandemic_on_the_video_game_industry) and [here](https://www.nbcnews.com/tech/social-media/youtube-thrives-window-those-isolated-coronavirus-n1173651).
+
+We believe, the originality of our project stems from two facts:
+
+- Even though the difference in the consumption of video games and streaming before and after the corona pandemic have been studied separately in more detail, it is our impression that the bridge that connects these two topics (namely live streaming service that focuses on video games) have been neglected. Especially our differentiation between different streaming categories sets us apart from previous analyses.
+
+- The idea of relating consumption of a medium with time periods in which lockdowns have been issued, is to the best of our knowledge, quite original. Although the impact of the pandemic as a whole has been investigated, we did not find any study that focused on the difference between periods with and without active lockdowns.
+
