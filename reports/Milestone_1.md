@@ -2,7 +2,7 @@
 
 **10% of the final grade**
 
-We, as passinate chess (and video game) players, follow the chess (and video game) scene on twitch.tv and recognised a recent surge in interest there. We asked ourselves, how the corona pandemic plays into this and finally decided to put on our detective hat to find out within the scope of our Data Visualization project.
+We, as passionate chess (and video game) players, follow the chess (and video game) scene on twitch.tv and recognised a recent surge in interest there. We asked ourselves, how the corona pandemic plays into this and finally decided to put on our detective hat to find out within the scope of our Data Visualization project.
 
 ### Dataset
 [Twitch.tv](https://www.twitch.tv/), a subsidiary of *Amazon.com Inc*, is a streaming service that is concentrated on video game live streaming, 
@@ -31,7 +31,7 @@ As a website that serves millions of users on a daily basis and is able to colle
 
 1. The Corona pandemic changed our lives in a multitude of ways, one of them being that many individuals work from home. As a result, we ask whether the amount of time that individuals spent on recreational activities on the web, such as watching gaming live-streams, increased. And if it did, did it increase within the progression of the pandemic?
 
-2. We are interested in whether the life-altering changes that came with the current pandemic have an influence on our interests. Specifically, we want to investigate whether certain categories have become unexpectedly more popular under the pandemic. One category that we are very intrigued in is the *Chess* category. Twitch.tv has noticed a huge surge of interest in this category over the year 2020. Although many argue that this due to release of the popular Tv-series [Queen's Gambit](https://gamerant.com/twitch-chess-category-spike-popularity/), we test whether the main reason may lie within the Corona pandemic.
+2. We are interested in whether the life-altering changes that came with the current pandemic have an influence on our interests. Specifically, we want to investigate whether certain categories have become unexpectedly more popular under the pandemic. One category that we are very intrigued in is the *Chess* category. Twitch.tv has noticed a huge surge of interest in this category over the year 2020. Although many argue that this due to release of the popular TV show [Queen's Gambit](https://gamerant.com/twitch-chess-category-spike-popularity/), we test whether the main reason may lie within the Corona pandemic.
     
 3. Assuming that the results of question 1. yielded a correlation between the pandemic and increased traffic on Twitch tv, we would be interested in analyzing the phenomenon in more detail. Specifically, we want to investigate whether it is possible to detect months of strict lockdown just by the number of viewers. Assuming that the bulk of the viewers that watch German streams are made up of German citizens, we will inspect the viewer numbers of German speaking streams only and try to put them into relation to lockdown periods in Germany. 
 
