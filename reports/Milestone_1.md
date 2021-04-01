@@ -33,7 +33,10 @@ As a website that serves millions of users on a daily basis and is able to colle
 
 2. We are interested in whether the life-altering changes that came with the current pandemic have an influence on our interests. Specifically, we want to investigate whether certain categories have become unexpectedly more popular under the pandemic. One category that we are very intrigued in is the *Chess* category. Twitch.tv has noticed a huge surge of interest in this category over the year 2020. Although many argue that this due to release of the popular TV show [Queen's Gambit](https://gamerant.com/twitch-chess-category-spike-popularity/), we test whether the main reason may lie within the Corona pandemic.
     
-3. Assuming that the results of question 1. yielded a correlation between the pandemic and increased traffic on Twitch tv, we would be interested in analyzing the phenomenon in more detail. Specifically, we want to investigate whether it is possible to detect months of strict lockdown just by the number of viewers. Assuming that the bulk of the viewers that watch German streams are made up of German citizens, we will inspect the viewer numbers of German speaking streams only and try to put them into relation to lockdown periods in Germany. 
+3. Assuming that the results of question 1. yielded a correlation between the pandemic and increased traffic on Twitch.tv, we would be interested in analyzing the phenomenon in more detail. Specifically, we want to investigate whether it is possible to detect months of strict lockdown just by the number of viewers. Assuming that the bulk of the viewers that watch German streams are made up of German citizens, we will inspect the viewer numbers of German speaking streams only and try to put them into relation to lockdown periods in Germany. 
+
+TODO HOW DO WE VISUALIZE THIS -> MAP? FLOWCHART? 
+
 
 ### Exploratory Data Analysis
 
