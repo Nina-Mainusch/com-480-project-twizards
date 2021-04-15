@@ -34,9 +34,9 @@ As a website that serves millions of users on a daily basis and is able to colle
 2. We are interested in whether the life-altering changes that came with the current pandemic have an influence on our interests. Specifically, we are interested whether certain channels have become unexpectedly more popular under the pandemic. One channel that we are very intrigued in is *Chess*. Twitch.tv has noticed a huge surge of interest in this channel over the year 2020. Many argue that this is due to release of the popular TV show [Queen's Gambit](https://gamerant.com/twitch-chess-category-spike-popularity/).
     
 
-### Exploratory Data Analysis
+### Exploratory Data Analysis (EDA)
 
-{% include { chess_fig.html} %}
+Our EDA contains some interactive plots, which are best experienced in the [Jupyter Notebook](https://github.com/Nina-Mainusch/com-480-project-twizards/blob/main/Milestone_1_EDA.ipynb). 
 
 ### Related Work
 
