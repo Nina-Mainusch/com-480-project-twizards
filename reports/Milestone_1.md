@@ -20,23 +20,19 @@ statistics every 15 minutes since august 2015 and make them publicly available. 
 - Peak Channels: Maximum number of channels at a time, within one category.
 - Streamers: Total amount of channels that streamed at least once in this category.
 - Average Viewers: Average total viewers within one category.
-- Average Channels: Average total channels streaming withing one category.
-- Average Viewer Ratio: Average number of viewers per channels withing one category. 
+- Average Channels: Average total channels streaming within one category.
+- Average Viewer Ratio: Average number of viewers per channels within one category. 
 
 Note that this dataset is available over all channels and in respect to all streamed language.
 
 ### Problematic
 
-As a website that serves millions of users on a daily basis and is able to collect some kind of information about these users (i.e. number of viewers per channel), it presents a rich environment for all kind of analyses. We want to focus on how the Corona Pandemic influences the interests of the Twitch.tv users. In this setting, we aim at answering the following questions:
+As a website that serves millions of users on a daily basis and is able to collect some kind of information about these users (i.e. number of viewers per channel), it presents a rich environment for all kind of analyses. We want to focus on how the Corona Pandemic influences the interests of the Twitch.tv users. In this setting, we aim at incorporating the following questions into our visualisation:
 
 1. The Corona pandemic changed our lives in a multitude of ways, one of them being that many individuals work from home. As a result, we ask whether the amount of time that individuals spent on recreational activities on the web, such as watching gaming live-streams, increased. And if it did, did it increase within the progression of the pandemic?
 
-2. We are interested in whether the life-altering changes that came with the current pandemic have an influence on our interests. Specifically, we want to investigate whether certain categories have become unexpectedly more popular under the pandemic. One category that we are very intrigued in is the *Chess* category. Twitch.tv has noticed a huge surge of interest in this category over the year 2020. Although many argue that this due to release of the popular TV show [Queen's Gambit](https://gamerant.com/twitch-chess-category-spike-popularity/), we test whether the main reason may lie within the Corona pandemic.
+2. We are interested in whether the life-altering changes that came with the current pandemic have an influence on our interests. Specifically, we are interested whether certain channels have become unexpectedly more popular under the pandemic. One channel that we are very intrigued in is *Chess*. Twitch.tv has noticed a huge surge of interest in this channel over the year 2020. Many argue that this is due to release of the popular TV show [Queen's Gambit](https://gamerant.com/twitch-chess-category-spike-popularity/).
     
-3. Assuming that the results of question 1. yielded a correlation between the pandemic and increased traffic on Twitch.tv, we would be interested in analyzing the phenomenon in more detail. Specifically, we want to investigate whether it is possible to detect months of strict lockdown just by the number of viewers. Assuming that the bulk of the viewers that watch German streams are made up of German citizens, we will inspect the viewer numbers of German speaking streams only and try to put them into relation to lockdown periods in Germany. 
-
-TODO HOW DO WE VISUALIZE THIS -> MAP? FLOWCHART? 
-
 
 ### Exploratory Data Analysis
 
