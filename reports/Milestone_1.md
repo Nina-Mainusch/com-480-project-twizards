@@ -36,7 +36,7 @@ As a website that serves millions of users on a daily basis and is able to colle
 
 ### Exploratory Data Analysis
 
-TODO
+{% include { chess_fig.html} %}
 
 ### Related Work
 
